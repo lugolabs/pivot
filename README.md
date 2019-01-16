@@ -5,12 +5,20 @@ Write a method that returns the "pivot" index of a list of integers. We define t
 
 You can write the method in any language. Make sure that the method:
 
-   • runs successfully
-
-   • handles all edge cases
-
-   • is as efficient as you can make it!
+- runs successfully
+- handles all edge cases
+- is as efficient as you can make it!
 
 
 
 A successful answer will fulfill the above criteria.
+
+## Solution
+
+Run the solution to a terminal. First `cd` to the `pivot` folder then run:
+
+```
+ruby pivot.rb
+```
+
+All tests should pass.
